@@ -1,4 +1,4 @@
-# BSU-CarterBrinton.github.io
+# Hello World
 <br/>
 
 **Hello World!**
